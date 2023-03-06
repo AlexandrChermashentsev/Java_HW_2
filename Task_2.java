@@ -1,7 +1,6 @@
 package Seminar_2_HW;
 
 import java.io.FileWriter;
-import java.nio.file.Path;
 
 // 2. С помощью Java создать файл file.txt, и записать в него слово TEST 100 раз.
 // Если уже файл создан, то перезаписываем его.
